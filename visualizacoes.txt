@@ -1,0 +1,95 @@
+What is the Most Successful Hollywood Movie of All Time?	https://informationisbeautiful.net/visualizations/what-is-the-most-successful-hollywood-movie-of-all-time/	Magazine Style		Single-component	Interactive Slideshow
+How do countries on average compare to the other Income Levels across 31 metrics?	https://lindseypoulter.com/wdvp/	Magazine Style		Multi-component	Drill-Down Story
+The Best and Worst Places to Grow Up: How Your Area Compares	https://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html	Annotated Chart		Single-component	Drill-Down Story
+Yes, There Has Been Progress on Climate. No, It’s Not Nearly Enough	https://www.nytimes.com/interactive/2021/10/25/climate/world-climate-pledges-cop26.html	Magazine Style	Annotated Chart, Slide Show	Multi-component	Interactive Slideshow
+Why Pinellas Country is the worst place in Florida to the black and go to public school	https://projects.tampabay.com/projects/2015/investigations/pinellas-failure-factories/chart-failing-black-students/	Slide Show		Multi-component	Interactive Slideshow
+How the Recession Reshaped the Economy, in 255 Charts	https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html?action=click&contentCollection=The%20Upshot&region=Footer&module=WhatsNext&version=WhatsNext&contentID=WhatsNext&moduleDetail=undefined&pgtype=Multimedia	Slide Show	Magazine Style	Multi-component	Drill-Down Story
+Mulheres nas Câmaras Municipais	https://www.generonumero.media/eleitas-2000-2024/	Slide Show	Annotated Chart	Multi-component	Interactive Slideshow
+Job turnover by occupation	https://flowingdata.com/2026/04/16/job-turnover-by-occupation/	Magazine Style	Annotated Chart	Multi-component	Martini Glass
+Mountains Out of Molehills	https://informationisbeautiful.net/visualizations/mountains-out-of-molehills/	Annotated Chart		Single-component	Interactive Slideshow
+Apple’s Value Hit $1 Trillion	https://www.nytimes.com/interactive/2018/08/02/technology/apple-trillion-market-cap.html	Slide Show	Film/Video/Animation	Multi-component	Interactive Slideshow
+World's Biggest Data Breaches & Hacks	https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/	Annotated Chart		Single-component	Drill-Down Story
+Creches e pré-escolas com ensino integral no Rio de Janeiro	https://www.generonumero.media/creches-escolas-municipais-rio/	Annotated Chart		Single-component	Drill-Down Story
+Figures in the Sky	https://figuresinthesky.visualcinnamon.com/	Annotated Chart		Multi-component	Drill-Down Story
+Where We Came From and Where We Went, State by State	https://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html	Magazine Style		Single-component	Drill-Down Story
+Four Seasons	https://www.go4trees.com/four-seasons/	Slide Show	Partitioned Poster	Multi-component	Drill-Down Story
+Which is The Best Performing Marvel Movie?	https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/	Annotated Chart		Single-component	Interactive Slideshow
+ALL OLYMPIC GOLD MEDAL WINNERS	https://olympicfeathers.visualcinnamon.com/	Annotated Chart		Single-component	Interactive Slideshow
+Mapping the Coronavirus Outbreak Across the World	Coronavirus: Mapping Covid-19 Confirmed Cases and Deaths Globally	Magazine Style		Multi-component	Interactive Slideshow
+Putting Emojis  on the President’s Face	https://shirleywu.studio/obamas/	Annotated Chart		Single-component	Interactive Slideshow
+"Where Athletes in the Premier
+League"	https://www.nytimes.com/interactive/2017/12/29/upshot/internationalization-of-pro-sports-leagues-premier-league.html#wfn-england-premier-league	Magazine Style		Single-component	Interactive Slideshow
+How Has the Drought Affected California’s Water Use?	https://www.nytimes.com/interactive/2015/04/01/us/water-use-in-california.html	Slide Show	Magazine Style	Multi-component	Interactive Slideshow
+Crop yields	https://ourworldindata.org/crop-yields-climate-impact	Annotated Chart		Single-component	Martini Glass
+The Spanish flu: the global impact of the largest influenza pandemic in history	https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history	Annotated Chart		Single-component	Martini Glass
+How the Virus Got Out	https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html?auth=login-google1tap&login=google1tap	Magazine Style		Multi-component	Interactive Slideshow
+Inflation’s Wild Ride	https://www.nytimes.com/interactive/2024/06/26/business/economy/inflation-rate-over-time.html	Magazine Style	Annotated Chart, Slide Show	Multi-component	Interactive Slideshow
+"A 3-D View of a Chart That Predicts
+The Economic Future: The Yield Curve"	https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html	Slide Show	Annotated Chart	Multi-component	Interactive Slideshow
+Mulheres na política institucional	https://www.generonumero.media/participacao-mulheres-politica/	Annotated Chart		Single-component	Interactive Slideshow
+What's Really Warming the World?	https://www.bloomberg.com/graphics/2015-whats-warming-the-world/	Slide Show		Multi-component	Interactive Slideshow
+Why Europe Is Unprepared to Defend Itself	https://www.bloomberg.com/graphics/2024-nato-armed-forces/?srnd=graphics-v2	Magazine Style	Annotated Chart, Slide Show, Flow Chart	Multi-component	Interactive Slideshow
+Gaza Reduced to 42 Million Tonnes of Rubble. What Will It Take to Rebuild?	https://www.bloomberg.com/graphics/2024-gaza-who-will-pay-to-rebuild/?srnd=graphics-v2	Magazine Style	Annotated Chart	Multi-component	Interactive Slideshow
+The Carbon Map	https://www.carbonmap.org/#intro	Annotated Chart		Single-component	Drill-Down Story
+"How the racial makeup of where
+you live has changed since 1990"	https://www.washingtonpost.com/nation/interactive/2021/racial-makeup-census-diversity/	Magazine Style	Slide Show, Annotated Chart	Multi-component	Drill-Down Story
+Women's Pockets are Inferior	https://pudding.cool/2018/08/pockets	Magazine Style	Partitioned Poster, Annotated Chart	Multi-component	Drill-Down Story
+Homicide database: Mapping unsolved murders in major U.S. cities	https://www.washingtonpost.com/graphics/2018/investigations/unsolved-homicide-database/	Magazine Style	Annotated Chart, Slide Show	Multi-component	Interactive Slideshow
+Is the Love Song Dying?	https://pudding.cool/2024/11/love-songs/	Slide Show	Annotated Chart	Multi-component	Interactive Slideshow
+The Winningest Cities in North American Sports	https://pudding.cool/2018/11/titletowns	Magazine Style	Annotated Chart, Slide Show	Multi-component	Interactive Slideshow
+Film Dialogue by Gender	https://pudding.cool/2017/03/film-dialogue	Magazine Style		Multi-component	Martini Glass
+Getting a Good Job Depends More on Race and Gender than Education	https://apps.urban.org/features/job-quality-segregation-race-gender/	Magazine Style	Slide Show, Partitioned Poster	Multi-component	Martini Glass
+Hollywood's Gender Divide and its Effect on Films	https://pudding.cool/2017/03/bechdel 	Magazine Style	Annotated Chart	Multi-component	Martini Glass
+US presidential election results	https://www.reuters.com/graphics/USA-ELECTION/RESULTS/zjpqnemxwvx/embeddables/national/power-bar-called-races-map/	Annotated Chart		Single-component	Drill-Down Story
+Salary and Occupation	https://flowingdata.com/2025/09/09/salary-and-occupation-2024/	Magazine Style	Annotated Chart	Multi-component	Martini Glass
+Roots of Racism	https://rootsofracism.taaf.org/	Slide Show	Annotated Chart	Multi-component	Drill-Down Story
+How Influential is China in the World Trade Organization?	https://chinapower.csis.org/china-world-trade-organization-wto/	Magazine Style	Annotated Chart	Multi-component	Drill-Down Story
+Hate Map	https://www.splcenter.org/hate-map/	Annotated Chart		Single-component	Drill-Down Story
+The killing times: a massacre map of Australia's frontier wars	http://theguardian.com/australia-news/ng-interactive/2019/mar/04/massacre-map-australia-the-killing-times-frontier-wars	Annotated Chart		Single-component	Drill-Down Story
+Eleições: quem já tentou a Presidência mais de uma vez	https://www.nexojornal.com.br/grafico/2026/04/16/eleicoes-2026-brasil-candidatos-presidencia-lula-reeleicao-caiado	Annotated Chart		Single-component	Drill-Down Story
+Quais são os grupos oficiais de negociação na COP30	https://www.nexojornal.com.br/grafico/2025/11/19/cop30-grupo-negociacao-oficial-aliancas-paises-membros-onu-quais-sao	Annotated Chart		Single-component	Drill-Down Story
+Where do migrants live, and where were they born?	https://ourworldindata.org/where-do-migrants-live-and-where-were-they-born	Annotated Chart		Single-component	Drill-Down Story
+O mapa interativo do PIB dos municípios brasileiros	https://www.nexojornal.com.br/grafico/2025/12/19/pib-municipios-brasileiros-ranking-ibge	Annotated Chart		Single-component	Drill-Down Story
+Como os brasileiros se deslocam para o trabalho	https://www.nexojornal.com.br/grafico/2025/10/09/como-brasileiros-vao-trabalho-censo-2022	Annotated Chart		Single-component	Drill-Down Story
+How France Voted	https://www.nytimes.com/interactive/2017/05/07/world/europe/france-election-results-maps.html	Magazine Style	Annotated Chart	Multi-component	Drill-Down Story
+Singapore's divisive ethnic-based housing policy	https://kontinentalist.com/stories/hdb-ethnic-integration-policy	Magazine Style	Annotated Chart	Multi-component	Drill-Down Story
+A alternância entre esquerda e direita na América do Sul	https://www.nexojornal.com.br/grafico/2026/01/11/mapa-esquerda-direita-america-do-sul	Magazine Style	Annotated Chart	Single-component	Drill-Down Story
+Pathways to Prosperity for Adolescent Girls in Africa	https://a3.popcouncil.org/aag-report/#/	Slide Show	Annotated Chart	Multi-component	Drill-Down Story
+Energy Finance Tracker	https://public.tableau.com/app/profile/iaptableau/viz/GlobalEnergy_16895902797750/GlobalEnergyProjects	Partitioned Poster	Annotated Chart	Multi-component	Drill-Down Story
+Atlanta Police Department Crime Analysis	https://public.tableau.com/app/profile/oluwadunsin.agbolabori/viz/AtlantaPoliceDepartmentCrimeAnalysis-TopCrimesandTrends2009-2020/Dashboard1	Partitioned Poster		Multi-component	Drill-Down Story
+World Cup 2014 Predictions & Results	https://www.bloomberg.com/graphics/2014-world-cup/#0,0,-1	Slide Show	Flow Chart	Multi-component	Drill-Down Story
+Manhattan Population Explorer	https://manpopex.us/	Slide Show	Annotated Chart	Multi-component	Drill-Down Story
+When Women Make Headlines	https://pudding.cool/2022/02/women-in-headlines	Magazine Style	Slide Show	Multi-component	Interactive Slideshow
+How Americans Die	https://www.bloomberg.com/graphics/dataview/how-americans-die/	Slide Show	Annotated Chart	Multi-component	Interactive Slideshow
+See Where the Gerrymandering Wars Have Redrawn U.S. Congressional Maps	https://www.nytimes.com/interactive/2026/us/politics/states-gerrymandering-redistricting-maps.html	Magazine Style	Annotated Chart	Multi-component	Interactive Slideshow
+Russia’s war in Ukraine: complete guide in maps, video and pictures	https://www.theguardian.com/world/2022/mar/17/russias-war-in-ukraine-complete-guide-in-maps-video-and-pictures	Magazine Style	Annotated Chart, Slide Show	Multi-component	Interactive Slideshow
+How candidate diversity impacts color diversity	https://pudding.cool/2020/08/campaign-colors	Magazine Style	Annotated Chart, Slide Show	Multi-component	Interactive Slideshow
+How is the cost of living crisis affecting different groups?	https://public.flourish.studio/story/1775087/	Slide Show	Annotated Chart	Multi-component	Interactive Slideshow
+Food Data Visualization	https://public.flourish.studio/story/2333395/	Slide Show	Annotated Chart	Multi-component	Interactive Slideshow
+Spotlight on our housing data	https://public.flourish.studio/story/1834601/	Slide Show		Multi-component	Interactive Slideshow
+"
+ ‘Cultural genocide’: the shameful history of Canada’s residential schools"	https://www.theguardian.com/world/ng-interactive/2021/sep/06/canada-residential-schools-indigenous-children-cultural-genocide-map	Slide Show	Annotated Chart	Multi-component	Interactive Slideshow
+Human Terrain	https://pudding.cool/2018/10/city_3d/	Slide Show	Annotated Chart	Multi-component	Interactive Slideshow
+Film or Digital?	https://pudding.cool/2018/08/filmordigital	Magazine Style	Flow Chart, Annotated Chart, Slide Show	Multi-component	Interactive Slideshow
+Why Budapest, Warsaw, and Lithuania split themselves in two	https://pudding.cool/2019/04/eu-regions/	Magazine Style	Annotated Chart, Slide Show	Multi-component	Interactive Slideshow
+Creating a story	https://helpcenter.flourish.studio/hc/en-us/articles/8761559998351-Creating-a-story	Magazine Style	Annotated Chart, Film/Video/Animation	Multi-component	Interactive Slideshow
+24 hours in an invisible epidemic	https://pudding.cool/2023/09/invisible-epidemic	Magazine Style	Partitioned Poster, Slide Show	Multi-component	Interactive Slideshow
+The Millions Who Left	https://www.zeit.de/politik/deutschland/2019-05/east-west-exodus-migration-east-germany-demography	Magazine Style	Annotated Chart, Film/Video/Animation	Multi-component	Interactive Slideshow
+Running in Color	https://runningincolor.heshlindsdataviz.com/	Slide Show	Annotated Chart, Partitioned Poster	Multi-component	Interactive Slideshow
+A Visual Introduction to Machine Learning	https://narrative-flow.github.io/exploratory-study-2/	Magazine Style	Slide Show	Multi-component	Interactive Slideshow
+Office Vacancies Data Story	https://www.moodys.com/web/en/us/insights/data-stories/us-commercial-real-estate-vacancies-downtown-vs-suburbs.html	Magazine Style	Annotated Chart	Multi-component	Martini Glass
+U.S. GUN KILLINGS IN	https://guns.periscopic.com/	Annotated Chart		Single-component	Martini Glass
+Mapa do crime	https://www.lanacion.com.ar/seguridad/mapa-del-delito-te-sentis-inseguro-en-la-ciudad-comparti-tu-ubicacion-y-te-decimos-cuantos-delitos-nid23102024/	Magazine Style		Multi-component	Martini Glass
+Stopping the spread of COVID-19	https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/HERD%20IMMUNITY%20(EXPLAINER)/ygdvzmqqgpw/	Magazine Style	Partitioned Poster, Annotated Chart	Multi-component	Martini Glass
+Mapping the Spread of Drought Across the U.S.	https://www.nytimes.com/interactive/2014/upshot/mapping-the-spread-of-drought-across-the-us.html	Magazine Style	Annotated Chart, Film/Video/Animation	Multi-component	Martini Glass
+The Clubs That Connect The World Cup	https://www.nytimes.com/interactive/2014/06/20/sports/worldcup/how-world-cup-players-are-connected.html	Magazine Style	Annotated Chart, Flow Chart	Multi-component	Martini Glass
+This is a teenager	https://pudding.cool/2024/03/teenagers/	Magazine Style	Film/Video/Animation	Multi-component	Martini Glass
+Natural Disasters	https://ourworldindata.org/natural-disasters	Magazine Style	Annotated Chart	Multi-component	Martini Glass
+Every time someone said 'democracy' in Congress	https://pudding.cool/2025/11/democracy/	Slide Show	Slide Show, Annotated Chart, Film/Video/Animation	Multi-component	Martini Glass
+Doves and Hawks	https://www.reuters.com/graphics/USA-ECONOMY/FED/gdpzajoegvw/	Magazine Style		Multi-component	Drill-Down Story
+How the Iran war is driving up the cost of your shopping cart	https://www.reuters.com/graphics/IRAN-CRISIS/OIL-CONSUMERS/akpeyynmypr/	Magazine Style	Slide Show, Flow Chart	Multi-component	Drill-Down Story
+"Why Amazon knows
+so much about you"	https://www.bbc.co.uk/news/extra/CLQYZENMBI/amazon-data	Magazine Style	Annotated Chart, Slide Show	Multi-component	Interactive Slideshow
+Britain’s shadowy border	https://edition.cnn.com/interactive/2023/07/uk/migrant-crossings-ai-small-boats/	Slide Show		Multi-component	Interactive Slideshow
+Simulação mostra quais crianças são adotadas (e quais não são) no Brasil	https://arte.estadao.com.br/brasil/adocao/criancas/	Magazine Style	Partitioned Poster, Film/Video/Animation	Multi-component	Interactive Slideshow
+How Birth Year Influences Political Views	https://www.nytimes.com/interactive/2014/07/08/upshot/how-the-year-you-were-born-influences-your-politics.html	Magazine Style	Annotated Chart, Film/Video/Animation	Single-component	Martini Glass
