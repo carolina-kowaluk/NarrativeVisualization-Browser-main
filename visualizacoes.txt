@@ -93,3 +93,64 @@ so much about you"	https://www.bbc.co.uk/news/extra/CLQYZENMBI/amazon-data	Magaz
 Britain’s shadowy border	https://edition.cnn.com/interactive/2023/07/uk/migrant-crossings-ai-small-boats/	Slide Show		Multi-component	Interactive Slideshow
 Simulação mostra quais crianças são adotadas (e quais não são) no Brasil	https://arte.estadao.com.br/brasil/adocao/criancas/	Magazine Style	Partitioned Poster, Film/Video/Animation	Multi-component	Interactive Slideshow
 How Birth Year Influences Political Views	https://www.nytimes.com/interactive/2014/07/08/upshot/how-the-year-you-were-born-influences-your-politics.html	Magazine Style	Annotated Chart, Film/Video/Animation	Single-component	Martini Glass
+
+
+Lista de visualizações com viés:
+The Carbon Map	Saliência
+US presidential election results	Saliência
+Mountains Out of Molehills	Ancoragem
+The Best and Worst Places to Grow Up: How Your Area Compares	Ancoragem
+Women's Pockets are Inferior	Ancoragem
+"How the racial makeup of where
+you live has changed since 1990"	Ancoragem
+How do countries on average compare to the other Income Levels across 31 metrics?	Ancoragem
+The Winningest Cities in North American Sports	Ancoragem
+What is the Most Successful Hollywood Movie of All Time?	Ancoragem
+Homicide database: Mapping unsolved murders in major U.S. cities	Ancoragem
+Yes, There Has Been Progress on Climate. No, It’s Not Nearly Enough	Ancoragem, Framing Effect
+Film Dialogue by Gender	Ancoragem
+Hollywood's Gender Divide and its Effect on Films	Ancoragem
+Getting a Good Job Depends More on Race and Gender than Education	Ancoragem
+Work Cohorts	Ancoragem, Disponibilidade
+THE MOST TIMELESS SONGS OF ALL-TIME	Framing Effect
+Women have made major advances in politics — but the world is still far from equal	Framing Effect
+The Universe of Miles Davis	Framing Effect
+The Most Successful Labels in Hip Hop	Framing Effect
+Defining Punk	Framing Effect
+Job turnover by occupation	Saliência
+How the Recession Reshaped the Economy, in 255 Charts	Saliência
+Is the Love Song Dying?	Ancoragem
+Mulheres nas Câmaras Municipais	Ancoragem
+NBA Superteams	Ancoragem
+Why Pinellas Country is the worst place in Florida to the black and go to public school	Ancoragem
+National Anthem	Framing Effect
+
+Lista de elementos enviesados 
+The Carbon Map	Distorções visuais
+US presidential election results	Distorções visuais
+Mountains Out of Molehills	Configurações iniciais de exploração, Distorções visuais
+The Best and Worst Places to Grow Up: How Your Area Compares	Títulos e subtítulos interpretativos, Configurações iniciais de exploração
+Women's Pockets are Inferior	Apresentação de referências iniciais
+"How the racial makeup of where
+you live has changed since 1990"	Apresentação de referências iniciais
+How do countries on average compare to the other Income Levels across 31 metrics?	Configurações iniciais de exploração, Apresentação de referências iniciais
+The Winningest Cities in North American Sports	Configurações iniciais de exploração, Apresentação de referências iniciais, Operacionalização de conceitos por indicadores específicos
+What is the Most Successful Hollywood Movie of All Time?	Textos e anotações interpretativas, Apresentação de referências iniciais, Operacionalização de conceitos por indicadores específicos
+Homicide database: Mapping unsolved murders in major U.S. cities	Configurações iniciais de exploração, Apresentação de referências iniciais
+Yes, There Has Been Progress on Climate. No, It’s Not Nearly Enough	Títulos e subtítulos interpretativos
+Film Dialogue by Gender	Apresentação de referências iniciais
+Hollywood's Gender Divide and its Effect on Films	Apresentação de referências iniciais
+Getting a Good Job Depends More on Race and Gender than Education	Configurações iniciais de exploração, Apresentação de referências iniciais
+Work Cohorts	Configurações iniciais de exploração, Apresentação de referências iniciais
+THE MOST TIMELESS SONGS OF ALL-TIME	Operacionalização de conceitos por indicadores específicos
+Women have made major advances in politics — but the world is still far from equal	Títulos e subtítulos interpretativos
+The Universe of Miles Davis	Operacionalização de conceitos por indicadores específicos
+The Most Successful Labels in Hip Hop	Textos e anotações interpretativas, Operacionalização de conceitos por indicadores específicos
+Defining Punk	Textos e anotações interpretativas, Operacionalização de conceitos por indicadores específicos
+Job turnover by occupation	Distorções visuais
+How the Recession Reshaped the Economy, in 255 Charts	Distorções visuais
+Is the Love Song Dying?	Títulos e subtítulos interpretativos, Apresentação de referências iniciais, Operacionalização de conceitos por indicadores específicos
+Mulheres nas Câmaras Municipais	Títulos e subtítulos interpretativos
+NBA Superteams	Configurações iniciais de exploração, Operacionalização de conceitos por indicadores específicos
+Why Pinellas Country is the worst place in Florida to the black and go to public school	Títulos e subtítulos interpretativos, Textos e anotações interpretativas
+National Anthem	Operacionalização de conceitos por indicadores específicos
